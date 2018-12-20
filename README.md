@@ -1,5 +1,5 @@
-# CentroMedico-Clase-Industra
-Proyecto de la Clase de Industra del Software 
+# CentroMedico-Clase-Industria
+Proyecto de la Clase de Industria del Software 
 Integrantes del Grupo  
  Edilson Ariel Alvarado 			20121007218 
  Roberto Alexander Valladares. 20121006535
